@@ -13,7 +13,7 @@ title                    : "Alex Paschal"
 title_separator          : "-"
 name                     : &name "Alex Paschal"
 description              : &description "personal description"
-url                      : https://alexmpaschal.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://alexpasch.al # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexmpaschal/alexmpaschal.github.io"
 
