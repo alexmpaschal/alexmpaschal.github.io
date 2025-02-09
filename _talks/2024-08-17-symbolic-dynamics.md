@@ -8,4 +8,4 @@ date: 2024-08-17
 location: "Chapel Hill, North Carolina"
 ---
 
-We motivate and introduce symbolic dynamics. In particular, we discuss use cases for countable state symbolic dynamics and present a new infinite class of examples for which you can perform Gurevich entropy calculations. By the end of the talk I hope to elucidate the title of my REU paper: "The Variational Principle for Entropy of Countable State Shift Spaces with Specification."
+Abstract: We motivate and introduce symbolic dynamics. In particular, we discuss use cases for countable state symbolic dynamics and present a new infinite class of examples for which you can perform Gurevich entropy calculations. By the end of the talk I hope to elucidate the title of my REU paper: "The Variational Principle for Entropy of Countable State Shift Spaces with Specification."
