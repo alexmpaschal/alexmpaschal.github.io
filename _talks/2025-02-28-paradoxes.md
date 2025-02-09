@@ -2,7 +2,7 @@
 title: "Paradox in Logical Systems"
 collection: talks
 type: "Talk"
-permalink: /talks/paradoxes
+permalink: /talks/2025-02-28-paradoxes
 venue: "University of North Carolina at Chapel Hill, Department of Mathematics"
 date: 2025-02-28
 location: "Chapel Hill, North Carolina"
