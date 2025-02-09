@@ -1,5 +1,5 @@
 ---
-title: "Symbolic Dynamics"
+title: "What is Symbolic Dynamics?"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-08-17-symbolic-dynamics
