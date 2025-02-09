@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Alex Paschal
+title                    : "Alex Paschal"
 title_separator          : "-"
 name                     : &name "Alex Paschal"
 description              : &description "personal description"
