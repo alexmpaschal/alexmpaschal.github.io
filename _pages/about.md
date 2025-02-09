@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year mathematics student.
+I'm a second-year mathematics student at the University of North Carolina at Chapel Hill.
