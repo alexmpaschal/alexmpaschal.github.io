@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year mathematics student at the University of North Carolina at Chapel Hill and the current president of the [Carolina Math Club](https://heellife.unc.edu/organization/carolinamathclub). I research analytic number theory under Dr. Idris Assani and dynamical systems (in particular, thermodynamic formalism) under Dr. Daniel Thompson. I recently gave two talks on Gödel's first incompleteness theorem and wrote notes which are available [here](https://alexpasch.al/files/logic-notes.pdf).
+I'm a second-year mathematics student at the University of North Carolina at Chapel Hill and the current president of the [Carolina Math Club](https://heellife.unc.edu/organization/carolinamathclub). I research analytic number theory under Dr. Idris Assani and dynamical systems (in particular, thermodynamic formalism) under Dr. Daniel Thompson. You can find my CV [here](https://alexpasch.al/files/cv.pdf).
+
+I recently gave two talks on Gödel's first incompleteness theorem and wrote notes which are available [here](https://alexpasch.al/files/logic-notes.pdf).
