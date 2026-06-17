@@ -1,5 +1,5 @@
 ---
-title: "On Question 20.2 from Mike Boyle's &quot;Open problems in symbolic dynamics&quot;"
+title: "On Question 20.2 from Mike Boyle's \"Open problems in symbolic dynamics\""
 date: 2026-06-17
 permalink: /posts/mike-boyle-question-20-2/
 ---
